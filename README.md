@@ -1,2 +1,2 @@
-# ft_printf
-Repo for the project ft_printf @42
+# ft_printf 
+This is gsaiago's repo for the ft_printf project @42
