@@ -1,5 +1,4 @@
-# ft_printf 
-![printf badge](https://user-images.githubusercontent.com/98427284/175856570-dbba3614-34aa-4c34-8d3c-242a713054bb.png)
+<img src="https://user-images.githubusercontent.com/98427284/175838265-59e18bf3-b8b3-46d3-8b3e-1f7ce4b2e9a7.png" height="150" width="150">
 
-This is gsaiago's repo for the ft_printf project @42
-![printf badge](https://user-images.githubusercontent.com/98427284/175856570-dbba3614-34aa-4c34-8d3c-242a713054bb.png)
+# FT_PRINTF
+
