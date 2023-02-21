@@ -26,8 +26,8 @@ A small description of the required conversion:
 ## Source files
 
 ### Main files
-- [`ft_printf`](ft_printf.c)
-- [`ft_printf header`](ft_printf.h)
+- [`ft_printf.c`](ft_printf.c)
+- [`ft_printf.h`](ft_printf.h)
 
 ### Conversions
 - [`ft_putchar.c`](ft_putchar.c)
@@ -36,7 +36,7 @@ A small description of the required conversion:
 - [`ft_putnbr.c`](ft_putnbr.c)
 - [`ft_printhex.c`](ft_printhex.c)
 
-## Instal
+## Installation
 You can clone the source code and compile alongside your other src files, or you can follow the steps on the <a href="https://github.com/Grsaiago/libft">42 Cursus' Libft</a> and use the full lib.
 
 Just clone option:
