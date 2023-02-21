@@ -23,20 +23,20 @@ A small description of the required conversion:
 - `%x` print a number in hexadecimal (base 16) ([`ft_printhex.c`](ft_printhex.c)).
 - `%%` print a percent sign.</i>
 
-### Source files
+## Source files
 
-## Main files
+### Main files
 - [`ft_printf`](ft_printf.c)
 - [`ft_printf header`](ft_printf.h)
 
-## Conversions
+### Conversions
 - [`ft_putchar.c`](ft_putchar.c)
 - [`ft_putstr.c`](ft_putstr.c)
 - [`ft_printptr.c`](ft_printptr.c)
 - [`ft_putnbr.c`](ft_putnbr.c)
 - [`ft_printhex.c`](ft_printhex.c)
 
-### Instal
+## Instal
 You can clone the source code and compile alongside your other src files, or you can follow the steps on the <a href="https://github.com/Grsaiago/libft">42 Cursus' Libft</a> and use the full lib.
 
 Just clone option:
